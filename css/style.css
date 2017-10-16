@@ -129,10 +129,11 @@ nav {
 }
 
 #lightgreenbar {
-	width: 768px;
 	height: 20px;
 	background-color: #8DC63F;
 	margin: 0 auto;
+	width: 100%;
+	max-width: 768px;
 }
 
 #subjectsbox br {
@@ -146,7 +147,8 @@ footer {
 	padding: 20px 0 20px 0;
 	margin: 0 auto;
 	background-color: #39B54A;
-	width: 768px;
+	width: 100%;
+	max-width: 768px;
 }
 
 footer a {
